@@ -1,0 +1,21 @@
+This game was really fun to make! I feel like I learned a lot, like thinking
+through the logic of coding plus game really helped me. I had trouble 
+with understanding the logic of doing two switches at first like how
+would I know which case from which switch I was calling but as they are
+part of a function in a class that doesn't really apply actually. I got
+the basic scene switching working pretty fast but had a hard time getting
+the leaves to move, needed to switch the location of my leaves.move_fish.
+The where certain functions should go sometimes messes me up. Overall I
+am really happy with how the game turned out. I used chatgpt to help
+change the slider color. For the asthetics, I wanted it to feel peaceful
+and gentle. All of the images are taken of McGorlick Park! Even the final
+prize,the photo of my cat, outside the window is McGorlick Park. I would
+want to add prizes for all the levels not just the last one if I got to
+do a round two. Another problem that I would like to fix is rarely there
+is not enough of a certain leaf created to win. I think I would have to
+do the leaves array as three seperate ones in order to make sure each
+had a certain quanity? Or like I would check the leavesarray against
+the goal values and keep making more leaves until the leavesarray had
+more items than all three goal numbers combined. The feedback I got was
+very sweet! People liked how it was relaxing, the asethtics, and how
+there is no way to loose. 

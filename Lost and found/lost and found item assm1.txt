@@ -1,0 +1,19 @@
+Myself: Olivia Krewer
+partner: Hera Kang
+object description:
+ "I’ve lost my lunch, a small, round container filled with pesto pasta
+ at the bottom, two cherry tomatoes on the right side in the middle,
+ and arugula above. It’s a transparent container with a green lid,
+ and the thickness of the lid is like 1/5 of its height.
+ Its height is equal to its diameter."
+reflection:
+My partner spoke with some precision about the shape and size of the
+container. I chose to show the circle container from the side view
+which obscures its circle shape. I thought it would make the green
+lid less of an obstruction to seeing the contents. I think the tomatoes
+work well and I found it interesting how they desribes their location
+even though they would probably roll around, but maybe the contents
+are more tightly packed then I imagined! I know what arugula looks like
+but was afraid my attempt to draw in via code would look like nonsense
+and though a standard leaf shape would give across the general idea 
+better.

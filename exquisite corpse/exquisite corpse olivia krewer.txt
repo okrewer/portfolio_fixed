@@ -1,0 +1,11 @@
+Olivia's head, Kaori's upper, Kristy's lower
+
+Each function draws a different part of my character, 
+from the torso to the ponytail, allowing for easy customization. 
+I implemented mouse interaction logic with mousePressed() and
+mouseReleased() to toggle their expression and change the background 
+color (makes them mad).
+
+My character lives in canada and has never had a job. Jobs are not
+of interest to them. They spend their time on altering their hair
+style and getting mad at their friends. Their name is???? Harper??

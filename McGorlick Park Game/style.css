@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+/*below was helped by chatgpt/
+<style>
+  /* General styling for the slider */
+  input[type="range"] {
+    -webkit-appearance: none; /* Override default styling */
+    appearance: none;
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  /* Slider track */
+  input[type="range"]::-webkit-slider-runnable-track {
+    height: 8px;
+    background: black; /* Track color */
+    border-radius: 2px;
+  }
+
+  input[type="range"]::-moz-range-track {
+    height: 8px;
+    background: black;
+    border-radius: 5px;
+  }
+
+  /* Slider thumb (the draggable button) */
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 10px;
+    width: 10px;
+    background-color: green; /* Set thumb color to green */
+    border-radius: 20%; /* Make the thumb circular */
+    cursor: pointer;
+    border: none; /* Remove any border */
+    box-shadow: none; /* Remove default shadow */
+  }
+
+  input[type="range"]::-moz-range-thumb {
+    height: 20px;
+    width: 20px;
+    background-color: green; /* Set thumb color to green */
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    box-shadow: none;
+  }
+</style>
+

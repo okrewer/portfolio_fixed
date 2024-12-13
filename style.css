@@ -1,0 +1,77 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', sans-serif, monospace;
+    font-size: 1.04em;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    min-height: 100%; 
+}
+
+body {
+    position: relative;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+    background-color: rgb(255, 250, 237);
+    background-image: url("/mcgorlick leaves.png");
+    background-size: 40%;
+    background-repeat: repeat;
+    background-position: left;
+    opacity: 0.4;
+    z-index: -1; /* Place behind the content */
+    pointer-events: none; 
+}
+
+header {
+    padding: 10px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(255, 0, 0, 0.617);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.04em;
+}
+
+button:hover {
+    transform: scale(1.2);
+    transition-duration: 0.4s;
+    background-color: rgb(0, 123, 2);
+}
+
+.plink {
+    color: rgb(255, 106, 7);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.plink:hover {
+    color: white;
+    background: rgb(255, 7, 114);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    padding: 20px;
+}
+
+#bio {
+    padding: 20px;
+}
